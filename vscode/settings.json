@@ -1,0 +1,100 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.editorAssociations": {
+    "*.doc": "default"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "reactSnippets.settings.importReactOnTop": false,
+  "editor.stickyScroll.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "eslint.alwaysShowStatus": true,
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "explorer.confirmDelete": false,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.titleBarStyle": "custom",
+  "totalTypeScript.hiddenTips": [
+    "typing-function-parameters",
+    "ts-object-type",
+    "passing-generics-to-types",
+    "basic-types",
+    "type-alias-declaration",
+    "any-type",
+    "typeof",
+    "variable-type-annotation",
+    "non-null-expression",
+    "array-type",
+    "optional-object-property",
+    "union-type",
+    "returntype-utility-type",
+    "null-keyword",
+    "interface-declaration",
+    "literal-type",
+    "partial-utility-type",
+    "as-const",
+    "undefined-keyword",
+    "function-return-type",
+    "type-predicate",
+    "omit-utility-type",
+    "as-assertion",
+    "pick-utility-type"
+  ],
+  "totalTypeScript.hideAllTips": false,
+  "totalTypeScript.hideBasicTips": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": [
+    "dotnettools",
+    "esbenp",
+    "heroicons",
+    "hookform",
+    "nextjs",
+    "returntype",
+    "tailwindcss"
+  ],
+  "editor.linkedEditing": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tokenColorCustomizations": {
+    "[Tokyo Night]": {
+      "textMateRules": [
+        {
+          "scope": ["keyword.control.flow", "meta.var.expr storage.type"],
+          "settings": {
+            "fontStyle": ""
+          }
+        }
+      ]
+    }
+  },
+  "workbench.colorTheme": "Tokyo Night"
+}
